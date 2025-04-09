@@ -1,5 +1,7 @@
 **Project Title: Business Insights 360**
 
+**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiY2Q0YjI1ZjAtODRiMS00ZmY2LTlmZjUtYjAwYjFlYzg5ZTQ1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 **Overview:**
 Implemented a comprehensive Power BI solution for AtliQ Hardware, a rapidly growing global company, to enable data-driven decision-making across finance, sales, marketing, and supply chain domains. This was the company's first venture into analytics, aiming to stay competitive and avoid decisions based purely on intuition.
 
