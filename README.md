@@ -1,32 +1,32 @@
-Project Title: Business Insights 360
-Overview:
+**Project Title: Business Insights 360**
+
+**Overview:**
 Implemented a comprehensive Power BI solution for AtliQ Hardware, a rapidly growing global company, to enable data-driven decision-making across finance, sales, marketing, and supply chain domains. This was the company's first venture into analytics, aiming to stay competitive and avoid decisions based purely on intuition.
 
-Key Contributions:
+**Key Contributions:**
 
-Imported and modeled data from MySQL databases using Power BI and Power Query.
+1. Imported and modeled data from MySQL databases using Power BI and Power Query.
 
-Created interactive dashboards to answer key stakeholder questions across multiple business units.
+2. Created interactive dashboards to answer key stakeholder questions across multiple business units.
 
-Utilized DAX and DAX Studio for advanced calculations and performance optimization.
+3. Utilized DAX and DAX Studio for advanced calculations and performance optimization.
 
-Enabled data-driven decisions through dynamic visuals, KPI indicators, conditional formatting, and custom page navigation using bookmarks and buttons.
+4. Enabled data-driven decisions through dynamic visuals, KPI indicators, conditional formatting, and custom page navigation using bookmarks and buttons.
 
-Deployed reports to Power BI Service, set up personal gateway for auto-refresh, and configured workspaces, apps, and access permissions.
+5. Deployed reports to Power BI Service, set up personal gateway for auto-refresh, and configured workspaces, apps, and access permissions.
 
-Skills & Tools Used:
+**Skills & Tools Used:**
+1. Power BI Desktop & Service
 
-Power BI Desktop & Service
+2. DAX, DAX Studio
 
-DAX, DAX Studio
+3. Power Query, M Language
 
-Power Query, M Language
+4. SQL, Excel
 
-SQL, Excel
+5. GitHub LFS for version control of large files
 
-GitHub LFS for version control of large files
-
-Business Concepts Applied:
+**Business Concepts Applied:**
 
 Gross/Net Sales, Margins, COGS
 
@@ -36,5 +36,5 @@ Market, Channel, and Product-level Analysis
 
 Customer Segmentation (Retailers, Direct, Distributors)
 
-Impact:
+**Impact:**
 Empowered AtliQ Hardware's stakeholders with 360° business insights, improved forecast accuracy, reduced warehouse costs, and supported strategic decisions with real-time analytics.
